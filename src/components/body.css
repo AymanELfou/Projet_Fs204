@@ -1,0 +1,119 @@
+/* ImageWithText.css */
+
+/* Reset default body and html styles */
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+/* Full Screen Container */
+.full-screen {
+    background-image: url('Promo.svg'); /* Replace with the path to your image */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100svh;
+    overflow: hidden;
+    position: relative;
+}
+
+/* Overlay Text Styling */
+.overlay-text {
+    position: absolute;
+    top: 40%; /* Adjust the vertical position as needed */
+    left: 0; /* Place the text to the left */
+    transform: translateY(-50%);
+    text-align: left; /* Align the text to the left */
+    color: #fff; /* Text color */
+    padding: 20px; /* Optional: Add padding for better visibility */
+}
+
+/* Heading Styles */
+.overlay-text h1 {
+    font-size: 2.7em; /* Adjust the font size as needed */
+    margin: 0;
+    padding: 8px;
+    line-height: 55px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* Create Now Button Styles */
+.overlay-text .btnCreat {
+    background-color: red;
+    padding: 12px;
+    border-radius: 4px;
+    color: white;
+    border: none;
+    margin: 12px;
+    font-size: 20px;
+    font-weight: bold;
+    width: 180px;
+    height: 55px;
+}
+
+.overlay-text .btnCreat:hover {
+    background-color: rgb(240, 17, 17);
+    border-color: white;
+    transition: 0.3s;
+}
+
+/* Buy Pre-built PC Button Styles */
+.overlay-text .btnBuy {
+    background-color: transparent;
+    padding: 11px;
+    border-radius: 3px;
+    color: white;
+    border-color: white;
+    border: radius 1px;
+    font-size: 20px;
+    font-weight: bold;
+    width: 200px;
+    height: 55px;
+}
+
+/* Media query for smaller screens (e.g., phones) */
+@media screen and (max-width: 600px) {
+    .overlay-text {
+        top: 30%; /* Adjust the vertical position for smaller screens */
+        padding: 10px; /* Adjust padding for smaller screens */
+    }
+
+    .overlay-text h1 {
+        font-size: 1.8em; /* Adjust the font size for smaller screens */
+        line-height: 45px;
+    }
+
+    /* Adjust button styles for smaller screens */
+    .overlay-text .btnCreat,
+    .overlay-text .btnBuy {
+        padding: 10px;
+        font-size: 18px;
+        height: 45px;
+    }
+
+    .overlay-text .btnCreat {
+        margin: 8px;
+        width: 150px;
+    }
+
+    .overlay-text .btnBuy {
+        margin: 8px;
+        width: 170px;
+    }
+}
+
+/* Additional commented-out styles */
+/* 
+.image-container {
+    margin-top: 100px;
+    position: relative;
+    width: 100%;
+    max-width: 100%; /* Set the maximum width for the container */
+   /*  margin: 0 auto; */ /* Center the container horizontally */
+/* }
+
+.image {
+    width: 100%;
+    height: auto;
+    display: block;
+} */
