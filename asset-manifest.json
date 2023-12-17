@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Projet_Fs204/static/css/main.d255f0ad.css",
+    "main.js": "/Projet_Fs204/static/js/main.1a8eb6d7.js",
+    "static/js/787.79947761.chunk.js": "/Projet_Fs204/static/js/787.79947761.chunk.js",
+    "static/media/Promo.svg": "/Projet_Fs204/static/media/Promo.55e5fac50536d7f4fab2.svg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Projet_Fs204/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/Pc6.PNG": "/Projet_Fs204/static/media/Pc6.d273513c9a95a0aef629.PNG",
+    "static/media/Pc5.PNG": "/Projet_Fs204/static/media/Pc5.8137d239a90c216ca1a0.PNG",
+    "static/media/fontawesome-webfont.eot": "/Projet_Fs204/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Projet_Fs204/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/Pc1.PNG": "/Projet_Fs204/static/media/Pc1.86913afd49a27be7935f.PNG",
+    "static/media/Pc3.PNG": "/Projet_Fs204/static/media/Pc3.c5ef4532150362f7b5f5.PNG",
+    "static/media/Pc4.PNG": "/Projet_Fs204/static/media/Pc4.0be826922596b367de0a.PNG",
+    "static/media/Pc2.PNG": "/Projet_Fs204/static/media/Pc2.fc15177ca3e499975035.PNG",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Projet_Fs204/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Projet_Fs204/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/Carte-Mere.svg": "/Projet_Fs204/static/media/Carte-Mere.61ba31f33d79f2dcebdecb90246f01ed.svg",
+    "static/media/Processeur.svg": "/Projet_Fs204/static/media/Processeur.2b6227e245b595ddaaf206e9122d41bb.svg",
+    "static/media/PSU.svg": "/Projet_Fs204/static/media/PSU.5a3884c899d1d84bbf06788a32e21287.svg",
+    "static/media/Carte-Graphique.svg": "/Projet_Fs204/static/media/Carte-Graphique.f206f6143650fa7a5c799b4ad7995a72.svg",
+    "static/media/Stockage.svg": "/Projet_Fs204/static/media/Stockage.cd97b33ef78396cba71d55e36afed2a5.svg",
+    "static/media/RAM.svg": "/Projet_Fs204/static/media/RAM.7ce49a2552e30565e0be717a9fddb21b.svg",
+    "static/media/Boitier.svg": "/Projet_Fs204/static/media/Boitier.54ae301da39f756956a97a56e4ad4856.svg",
+    "index.html": "/Projet_Fs204/index.html",
+    "main.d255f0ad.css.map": "/Projet_Fs204/static/css/main.d255f0ad.css.map",
+    "main.1a8eb6d7.js.map": "/Projet_Fs204/static/js/main.1a8eb6d7.js.map",
+    "787.79947761.chunk.js.map": "/Projet_Fs204/static/js/787.79947761.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d255f0ad.css",
+    "static/js/main.1a8eb6d7.js"
+  ]
+}
